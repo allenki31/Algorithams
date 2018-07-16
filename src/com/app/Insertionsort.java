@@ -30,7 +30,7 @@ class Insertionsort
         System.out.println();
     }
  
-    // Driver method
+    
     public static void main(String args[])
     {        
         int arr[] = {11,12,5,3,1};
